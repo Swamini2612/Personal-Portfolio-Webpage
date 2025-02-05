@@ -27,8 +27,6 @@ JavaScript :- Programming language used for adding interactivity and dynamic fea
 Getting Started
 To view the website locally or make modifications, follow these steps:
 
-Clone the repository: git clone [https://github.com/keerti1924/Personal-Portfolio-Website.git]
-Open the project folder in your preferred code editor.
 Open the index.html file in a web browser to view the website.
 Contributing
 I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website.
