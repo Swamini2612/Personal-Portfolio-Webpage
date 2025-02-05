@@ -23,3 +23,8 @@ JavaScript Interactivity: JavaScript plays a crucial role in bringing interactiv
 
 Clean and Modern Design: The design philosophy behind the portfolio emphasizes clarity and modernity. The layout is clean and well-organized, allowing the content to shine without unnecessary distractions. A minimalist approach ensures that the focus remains on the projects and information presented, while thoughtful design choices create an aesthetically pleasing experience.
 
+Output: 
+
+![Image](https://github.com/user-attachments/assets/7af541af-08a8-4403-aedc-6ff54ce1ba2a)
+![Image](https://github.com/user-attachments/assets/46e70553-a6ae-4e7f-b9ff-133030284493)
+![Image](https://github.com/user-attachments/assets/e9be080e-9abd-4214-84ae-c07969bf3249)
