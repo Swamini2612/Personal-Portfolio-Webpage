@@ -4,7 +4,7 @@ Company: CODTECH IT SOLUTIONS
 NAME: SWAMINI MARUTI BHOR 
 INTERN ID: CTO8HLN 
 DOMAIN: FRONT END DEVELOPMENT
-DURATION: 4-WEEKS 
+BATCH-DURATION: 10 JANUARY 2025 TO 10 FEBRUARY 2025 
 MENTOR: NEELA SANTOSH
 
 This repository contains the source code and files for my personal portfolio website. Responsive Portfolio Website Design Using HTML CSS & JavaScript. Give it a star 🌟 if you find it useful.
